@@ -2,3 +2,4 @@ streamlit
 pydub
 SpeechRecognition
 textblob
+streamlit-webrtc
